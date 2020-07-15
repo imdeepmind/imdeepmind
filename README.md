@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-A young enthusiastic professional with a strong interest in **Machine Learning/Deep Learning Research, Applied AI, and Software Engineering**. Also, can be described as a travel freak (exclusively on mountains) and an amateur photographer.
+Interest in **Machine Learning/Deep Learning Research, Applied AI, and Software Engineering**. 
 
-Currently a **Data Analyst/Software Engineer** at **TechVariable**. I have successfully completed over 5 projects so far working as in teams and also individually.
+Also, a **travel freak (exclusively on mountains)** and an **amateur photographer**.
+
+Currently a **Data Analyst/Software Engineer** at **TechVariable**.
 
 **Author of Deep Learning library NeuralPy**. NeuralPy is Keras like a Deep Learning library that works on top of PyTorch with 70+ stars on Github (Mid July). For more information visit [https://www.neuralpy.xyz/](https://www.neuralpy.xyz/).
 
