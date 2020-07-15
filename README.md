@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+A young enthusiastic professional with a strong interest in **Machine Learning/Deep Learning Research, Applied AI, and Software Engineering**. Also, can be described as a travel freak (exclusively on mountains) and an amateur photographer.
+
+Currently a **Data Analyst/Software Engineer** at **TechVariable**. I have successfully completed over 5 projects so far working as in teams and also individually.
+
+**Author of Deep Learning library NeuralPy**. NeuralPy is Keras like a Deep Learning library that works on top of PyTorch with 70+ stars on Github (Mid July). For more information visit [https://www.neuralpy.xyz/](https://www.neuralpy.xyz/).
+
+To know more about me and my work, you may visit the following links:
+  1. Personal Website: [https://imdeepmind.com/](https://imdeepmind.com/)
+  2. Github Account for personal projects: [https://github.com/imdeepmind](https://github.com/imdeepmind)
+  3. Blogs on Medium: [https://medium.com/@imdeepmind](https://medium.com/@imdeepmind)
+  4. Instagram for travel photos: [https://www.instagram.com/imdeepmind/](https://www.instagram.com/imdeepmind/)
+
+
 <!--
 **imdeepmind/imdeepmind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
