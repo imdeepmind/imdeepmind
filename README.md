@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Interest in **Machine Learning/Deep Learning Research, Applied AI, and Software Engineering**. 
+Interested in **Machine Learning/Deep Learning Research, Applied AI, and Software Engineering**. 
 
 Also, a **travel freak (exclusively on mountains)** and an **amateur photographer**.
 
