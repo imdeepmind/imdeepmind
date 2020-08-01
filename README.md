@@ -13,6 +13,8 @@ To know more about me and my work, you may visit the following links:
   2. Github Account for personal projects: [https://github.com/imdeepmind](https://github.com/imdeepmind)
   3. Blogs on Medium: [https://medium.com/@imdeepmind](https://medium.com/@imdeepmind)
   4. Instagram for travel photos: [https://www.instagram.com/imdeepmind/](https://www.instagram.com/imdeepmind/)
+  
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=imdeepmind&count_private=true)
 
 
 <!--
