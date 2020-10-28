@@ -2,8 +2,6 @@
 
 Interested in **Machine Learning/Deep Learning Research, Applied AI, and Software Engineering**. 
 
-Also, a **travel freak (exclusively on mountains)** and an **amateur photographer**.
-
 Currently a **Data Analyst/Software Engineer** at **TechVariable**.
 
 **Author of Deep Learning library NeuralPy**. NeuralPy is Keras like a Deep Learning library that works on top of PyTorch with 70+ stars on Github (Mid July). For more information visit [https://www.neuralpy.xyz/](https://www.neuralpy.xyz/).
