@@ -1,30 +1,18 @@
 ### Hi there 👋
 
-Interested in **Machine Learning/Deep Learning Research, Applied AI, and Software Engineering**. 
+- 🤔 Interested in **Machine Learning/Deep Learning Research, Applied AI, and Software Engineering**. 
 
-Currently a **Data Analyst/Software Engineer** at **TechVariable**.
+- 🌱 MS in Data Science from Chandigarh University (2021-2023).
 
-**Author of Deep Learning library NeuralPy**. NeuralPy is Keras like a Deep Learning library that works on top of PyTorch with 70+ stars on Github (Mid July). For more information visit [https://www.neuralpy.xyz/](https://www.neuralpy.xyz/).
+- 🔭 Software Engineer with special interst in Machine Learning.
+
+- 🔭 **Founder of [Delphy](https://delphy.imdeepmind.com/)**, a website that provides information that you need for the libraries that you use.
+
+- ⚰️ Author of Deep Learning library NeuralPy. NeuralPy is Keras like a Deep Learning library that works on top of PyTorch with 70+ stars on Github (Mid July). For more information visit [https://neuralpy.imdeepmind.com/](https://neuralpy.imdeepmind.com/). **I'm no longer working in this project**
 
 To know more about me and my work, you may visit the following links:
   1. Personal Website: [https://imdeepmind.com/](https://imdeepmind.com/)
   2. Blogs on Medium: [https://medium.com/@imdeepmind](https://medium.com/@imdeepmind)
   3. Instagram for travel photos: [https://www.instagram.com/imdeepmind/](https://www.instagram.com/imdeepmind/)
   
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=imdeepmind&count_private=true)
-
-
-<!--
-**imdeepmind/imdeepmind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=imdeepmind&count_private=true)
