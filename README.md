@@ -6,7 +6,7 @@
 - 🔭 Founder/Creator of
     - [Delphy](https://delphyy.com/), a website that provides information that you need for the libraries that you use.
     - [Hocrox](https://hocrox.imdeepmind.com/), an image preprocessing and augmentation library with Keras like interface.
-    - [NeuralPy](https://neuralpy.netlify.app/), a Keras like a Deep Learning library that works on top of PyTorch. **I'm no longer working in this project**
+    - ~~[NeuralPy](https://neuralpy.netlify.app/), a Keras like a Deep Learning library that works on top of PyTorch.~~
 
 To know more about me and my work, you may visit the following links:
   1. Personal Website: [https://imdeepmind.com/](https://imdeepmind.com/)
