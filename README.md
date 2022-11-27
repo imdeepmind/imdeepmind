@@ -2,7 +2,7 @@
 
 - 🤔 Interested in **Software Engineering and Machine Learning**. 
 - 🌱 MSc in Data Science from Chandigarh University (2021-2023).
-- 🔭 Software Engineer at Flexday
+- 🔭 Software Engineer at TechVariable
 - 🔭 Founder/Creator of
     - [Delphy](https://delphyy.com/), a website that provides information that you need for the libraries that you use.
     - [Hocrox](https://hocrox.imdeepmind.com/), an image preprocessing and augmentation library with Keras like interface.
