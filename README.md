@@ -4,11 +4,12 @@
 - 🌱 MSc in Data Science from Chandigarh University (2021-2023).
 - 🔭 Software Engineer at TechVariable
 - 🔭 Founder/Creator of
+    - [Rocket](https://rocketapi.net), a platform for building backend APIs wth ease.
     - [Delphy](https://delphyy.com/), a website that provides information that you need for the libraries that you use.
     - [Hocrox](https://hocrox.imdeepmind.com/), an image preprocessing and augmentation library with Keras like interface.
     - ~~[NeuralPy](https://neuralpy.netlify.app/), a Keras like a Deep Learning library that works on top of PyTorch.~~
 
-To know more about me and my work, you may visit the following links:
+To learn more about me and my work, you may visit the following links:
   1. Personal Website: [https://imdeepmind.com/](https://imdeepmind.com/)
   2. Email: [abhishek@imdeepmind.com](mailto:abhishek@imdeepmind.com)
   
